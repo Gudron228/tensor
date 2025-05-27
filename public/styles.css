@@ -42,6 +42,10 @@ h1 {
     text-decoration: none;
 }
 
+.navigation-link:hover {
+    text-decoration: underline;
+}
+
 .navigation-logo {
     display: flex;
     justify-content: center;
